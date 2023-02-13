@@ -1,5 +1,3 @@
-Socioeconomic Team:
-
 ![](https://lh5.googleusercontent.com/0Lg7WF0eyRxdyfBCww1nWIXoI0IJuX7kt6iTyA0EX1jeqnleRjlAUSXa1_ZovhIFY4Rts0j35SabYzZ_ke3px3eZtXigYH-m48l4F4-JT0TjYPNH6m2569ULv5hHipRMK8hWNMngVwJJqHV18KPoBA)
 
 1.  First we looked at the data from the past teams 
